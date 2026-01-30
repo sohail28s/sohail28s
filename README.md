@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sohail Zafar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohail28s" alt="sohail28s" /></a> </p>
+<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?username=sohail28s)](https://github.com/ryo-ma/github-profile-trophy) </p>
 
 - 🔭 I’m currently working on **Ecommerce Store**
 
