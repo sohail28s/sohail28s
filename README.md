@@ -28,7 +28,7 @@ I am a performance-focused Frontend Developer specializing in the modern JavaScr
       <br />Tailwind CSS
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/vitejs/vitejs-icon.svg" width="40" height="40" alt="Vite" />
+      <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21.svg" width="40" height="40" alt="Vite" />
       <br />Vite
     </td>
     <td align="center" width="96">
@@ -69,7 +69,7 @@ I am a performance-focused Frontend Developer specializing in the modern JavaScr
 * Architected and built a highly scalable B2B distribution and admin dashboard designed to streamline commercial workflows.
 * Implemented complex client-side state management to handle multi-tier user permissions, real-time input validation, and asynchronous data tables[cite: 2].
 
-#### 🛍️ [AI-Powered E-Commerce Clothing Platform](https://github.com/your-username/your-repo-link)
+#### 🛍️ [E-Commerce Clothing Platform](https://github.com/your-username/your-repo-link)
 * **Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js), Axios, Vercel, Render
 * Engineered a responsive e-commerce storefront powered by a MERN stack backend to deliver an intuitive user shopping experience[cite: 2].
 * Integrated RESTful endpoints for secure user sessions, dynamic shopping cart synchronization, and product catalog filtering[cite: 2].
