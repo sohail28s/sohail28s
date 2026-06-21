@@ -28,7 +28,7 @@ I am a performance-focused Frontend Developer specializing in the modern JavaScr
       <br />Tailwind CSS
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21.svg" width="40" height="40" alt="Vite" />
+      <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" width="40" height="40" alt="Vite" />
       <br />Vite
     </td>
     <td align="center" width="96">
