@@ -74,12 +74,6 @@ I am a performance-focused Frontend Developer specializing in the modern JavaScr
 * Engineered a responsive e-commerce storefront powered by a MERN stack backend to deliver an intuitive user shopping experience[cite: 2].
 * Integrated RESTful endpoints for secure user sessions, dynamic shopping cart synchronization, and product catalog filtering[cite: 2].
 
-#### 🍳 [Feliciano Restaurant Landing Page](https://github.com/your-username/your-repo-link)
-* **Tech Stack:** React.js, Tailwind CSS, Framer Motion, Swiper.js
-* Developed a high-fidelity, interactive landing page leveraging modern frontend animation tools for fluid layouts and premium aesthetics.
-* Features a dynamic menu-filtering module and fully responsive layout configurations.
-
----
 
 ### 🤝 Connect with me
 
