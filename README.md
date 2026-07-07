@@ -70,7 +70,7 @@ I am a detail-oriented Full Stack Developer specializing in the MERN ecosystem (
 * Developed complex backend business logic for dynamic order pricing, custom product assignments, and automated partner profit distribution.
 * Implemented real-time order tracking, product inventory management with image uploads, and server-side pagination/filtering for large datasets.
 
-#### 🛍️ [E-Commerce Clothing Platform](https://github.com/your-username/your-repo-link)
+#### 🛍️ [E-Commerce Clothing Platform](https://github.com/sohail28s/ClothingStore)
 * **Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js), Axios, Vercel, Render
 * Engineered a responsive, full-stack e-commerce storefront powered by a robust Node.js/MongoDB backend to deliver an intuitive user shopping experience.
 * Designed and integrated RESTful endpoints for secure user sessions, dynamic shopping cart synchronization, and complex product catalog filtering.
