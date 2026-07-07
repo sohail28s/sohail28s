@@ -1,12 +1,12 @@
 # Hi there, I'm Muhammad Sohail Zafar 👋
 
-### Detail-Oriented Frontend React Developer | Focus on Frontend System Design
+### Full Stack Software Engineer | MERN Stack Ecosystem
 
-I am a performance-focused Frontend Developer specializing in the modern JavaScript ecosystem. I focus on building highly scalable, responsive web applications, optimizing client-side performance, and engineering intuitive user experiences.
+I am a detail-oriented Full Stack Developer specializing in the MERN ecosystem (MongoDB, Express.js, React.js, Node.js). I focus on building scalable web applications from the ground up, seamlessly connecting secure RESTful APIs and robust database models with responsive, pixel-perfect user interfaces.
 
-- 🚀 Currently building enterprise-grade user interfaces and dashboard architectures.
-- 🛠️ Expert in translating complex Figma designs into clean, modular, maintainable React components.
-- 💬 Ask me about: **React.js, Component Architecture, State Management (Redux/Zustand), and Tailwind CSS.**
+- 🚀 Currently building end-to-end scalable web applications with complex backend business logic.
+- 🛠️ Expert in architecting secure backends with JWT authentication (RBAC) and dynamic data rendering using React and Tailwind CSS.
+- 💬 Ask me about: **MERN Stack Architecture, RESTful API Design, React.js, State Management, and Database Modeling.**
 - 📬 Reach me at: **sohailyt28@gmail.com**
 
 ---
@@ -16,13 +16,27 @@ I am a performance-focused Frontend Developer specializing in the modern JavaScr
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-      <br />JavaScript
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" />
+      <br />MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express" />
+      <br />Express.js
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
       <br />React.js
     </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" />
+      <br />Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+      <br />JavaScript
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS" />
       <br />Tailwind CSS
@@ -34,20 +48,6 @@ I am a performance-focused Frontend Developer specializing in the modern JavaScr
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" alt="Redux" />
       <br />Redux
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" />
-      <br />Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express" />
-      <br />Express.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" />
-      <br />MongoDB
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
@@ -64,16 +64,19 @@ I am a performance-focused Frontend Developer specializing in the modern JavaScr
 
 ### 💻 Featured Projects
 
-#### 🏢 [B2B Ecommerce Platform Dashboard](https://github.com/your-username/your-repo-link)
-* **Tech Stack:** React.js, Vite, Tailwind CSS, Redux, Zustand
-* Architected and built a highly scalable B2B distribution and admin dashboard designed to streamline commercial workflows.
-* Implemented complex client-side state management to handle multi-tier user permissions, real-time input validation, and asynchronous data tables[cite: 2].
+#### 🏢 [BusyBeans – B2B E-Commerce Platform Dashboard](https://github.com/your-username/your-repo-link)
+* **Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js), JWT, Vite, Tailwind CSS
+* Architected a highly scalable B2B distribution platform featuring a secure Node.js/Express backend with multi-role JWT authentication (Admin, Customer, Local Partner).
+* Developed complex backend business logic for dynamic order pricing, custom product assignments, and automated partner profit distribution.
+* Implemented real-time order tracking, product inventory management with image uploads, and server-side pagination/filtering for large datasets.
 
 #### 🛍️ [E-Commerce Clothing Platform](https://github.com/your-username/your-repo-link)
 * **Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js), Axios, Vercel, Render
-* Engineered a responsive e-commerce storefront powered by a MERN stack backend to deliver an intuitive user shopping experience[cite: 2].
-* Integrated RESTful endpoints for secure user sessions, dynamic shopping cart synchronization, and product catalog filtering[cite: 2].
+* Engineered a responsive, full-stack e-commerce storefront powered by a robust Node.js/MongoDB backend to deliver an intuitive user shopping experience.
+* Designed and integrated RESTful endpoints for secure user sessions, dynamic shopping cart synchronization, and complex product catalog filtering.
+* Configured and deployed the application for zero-downtime hosting, utilizing Vercel for the React frontend and Render for the backend API services.
 
+---
 
 ### 🤝 Connect with me
 
